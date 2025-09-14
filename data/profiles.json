@@ -1,0 +1,64 @@
+{
+  "profiles": [
+    {
+      "id": "1757697592068470",
+      "handle": "timi",
+      "display_name": "timeo",
+      "avatar_url": "asdf",
+      "bio": "asdf",
+      "stats": {
+        "posts": 1,
+        "trials_started": 0,
+        "trials_defended": 2,
+        "prestige": 0
+      },
+      "created_at": "2025-09-12T17:19:52.068Z",
+      "updated_at": "2025-09-12T17:37:22.136Z"
+    },
+    {
+      "id": "1757698218165914",
+      "handle": "asdf",
+      "display_name": "asdf",
+      "avatar_url": "asdf",
+      "bio": "asdf",
+      "stats": {
+        "posts": 0,
+        "trials_started": 0,
+        "trials_defended": 0,
+        "prestige": 0
+      },
+      "created_at": "2025-09-12T17:30:18.165Z",
+      "updated_at": "2025-09-12T17:30:18.165Z"
+    },
+    {
+      "id": "1757698456348304",
+      "handle": "saf",
+      "display_name": "asdf",
+      "avatar_url": "asdf",
+      "bio": "asdf",
+      "stats": {
+        "posts": 0,
+        "trials_started": 0,
+        "trials_defended": 0,
+        "prestige": 0
+      },
+      "created_at": "2025-09-12T17:34:16.348Z",
+      "updated_at": "2025-09-12T17:34:16.348Z"
+    },
+    {
+      "id": "1757698565767611",
+      "handle": "asdfasdfas",
+      "display_name": "asdfasdf",
+      "avatar_url": "sdfasd",
+      "bio": "fasdfasdf",
+      "stats": {
+        "posts": 0,
+        "trials_started": 0,
+        "trials_defended": 0,
+        "prestige": 0
+      },
+      "created_at": "2025-09-12T17:36:05.767Z",
+      "updated_at": "2025-09-12T17:36:05.767Z"
+    }
+  ]
+}

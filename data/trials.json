@@ -1,0 +1,118 @@
+{
+  "trials": [
+    {
+      "id": "1757698642136059",
+      "title": "Trial: Post by @timi",
+      "description": "asdfad",
+      "created_at": "2025-09-12T17:37:22.136Z",
+      "state": "scheduled",
+      "roles": {
+        "judge_ids": [],
+        "accused_id": "1757697592068470",
+        "audience_ids": [
+          "1757698565767611",
+          "890b0cda-fee6-4667-9f07-93424def061d",
+          "ae7fd7d7-7f81-4c3b-841d-0e06e212fc3a"
+        ]
+      },
+      "post_ref": {
+        "post_id": "1757697606323597"
+      }
+    },
+    {
+      "id": "1757698463135081",
+      "title": "Trial: Post by @timi",
+      "description": "asdfad",
+      "created_at": "2025-09-12T17:34:23.135Z",
+      "state": "scheduled",
+      "roles": {
+        "judge_ids": [],
+        "accused_id": "1757697592068470",
+        "audience_ids": [
+          "1757698456348304"
+        ]
+      },
+      "post_ref": {
+        "post_id": "1757697606323597"
+      }
+    },
+    {
+      "id": "1757693829299",
+      "title": "test",
+      "description": "test",
+      "created_at": "2025-09-12T16:17:09.299Z"
+    },
+    {
+      "id": "1757690233856",
+      "title": "sdaf",
+      "description": "asdf",
+      "created_at": "2025-09-12T15:17:13.856Z"
+    },
+    {
+      "id": "1757688327551",
+      "title": "asdf",
+      "description": "asdf",
+      "created_at": "2025-09-12T14:45:27.551Z"
+    },
+    {
+      "id": "1757687926325",
+      "title": "asdf",
+      "description": "adf",
+      "created_at": "2025-09-12T14:38:46.325Z"
+    },
+    {
+      "id": "1757682544078",
+      "title": "asdf",
+      "description": "asdf",
+      "created_at": "2025-09-12T13:09:04.078Z"
+    },
+    {
+      "id": "1757680024937",
+      "title": "asdf",
+      "description": "asdf",
+      "created_at": "2025-09-12T12:27:04.937Z"
+    },
+    {
+      "id": "1757679930399",
+      "title": "asdf",
+      "description": "asdf",
+      "created_at": "2025-09-12T12:25:30.399Z"
+    },
+    {
+      "id": "1757679705233",
+      "title": "sadfa",
+      "description": "asdf",
+      "created_at": "2025-09-12T12:21:45.233Z"
+    },
+    {
+      "id": "1757677884381",
+      "title": "asd",
+      "description": "asd",
+      "created_at": "2025-09-12T11:51:24.381Z"
+    },
+    {
+      "id": "1757677192153",
+      "title": "adsa",
+      "description": "asdfas",
+      "created_at": "2025-09-12T11:39:52.153Z"
+    },
+    {
+      "id": "1757674138308",
+      "title": "sdf",
+      "description": "afd",
+      "created_at": "2025-09-12T10:48:58.308Z"
+    },
+    {
+      "id": "1757673110233",
+      "title": "asd",
+      "description": "asd",
+      "created_at": "2025-09-12T10:31:50.233Z"
+    },
+    {
+      "id": "1757662303236",
+      "title": "asd",
+      "description": "asd",
+      "created_at": "2025-09-12T07:31:43.236Z"
+    }
+  ]
+}
